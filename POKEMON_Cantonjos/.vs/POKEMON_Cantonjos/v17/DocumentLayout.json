@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Arman\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_POKEMON_Cantonjos_Arman_BSIT_31A1\\POKEMON_Cantonjos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B42FBB6-C90A-44C2-B389-A580A1843E1C}|POKEMON_Cantonjos\\POKEMON_Cantonjos.csproj|c:\\users\\arman\\documents\\github\\prefinal_assignment_pokemon_cantonjos_arman_bsit_31a1\\pokemon_cantonjos\\pokemon_cantonjos\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B42FBB6-C90A-44C2-B389-A580A1843E1C}|POKEMON_Cantonjos\\POKEMON_Cantonjos.csproj|solutionrelative:pokemon_cantonjos\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B42FBB6-C90A-44C2-B389-A580A1843E1C}|POKEMON_Cantonjos\\POKEMON_Cantonjos.csproj|c:\\users\\arman\\documents\\github\\prefinal_assignment_pokemon_cantonjos_arman_bsit_31a1\\pokemon_cantonjos\\pokemon_cantonjos\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B42FBB6-C90A-44C2-B389-A580A1843E1C}|POKEMON_Cantonjos\\POKEMON_Cantonjos.csproj|solutionrelative:pokemon_cantonjos\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 105,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_POKEMON_Cantonjos_Arman_BSIT_31A1\\POKEMON_Cantonjos\\POKEMON_Cantonjos\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "POKEMON_Cantonjos\\Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_POKEMON_Cantonjos_Arman_BSIT_31A1\\POKEMON_Cantonjos\\POKEMON_Cantonjos\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "POKEMON_Cantonjos\\Controllers\\PokemonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:37:41.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_POKEMON_Cantonjos_Arman_BSIT_31A1\\POKEMON_Cantonjos\\POKEMON_Cantonjos\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "POKEMON_Cantonjos\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_POKEMON_Cantonjos_Arman_BSIT_31A1\\POKEMON_Cantonjos\\POKEMON_Cantonjos\\Models\\Pokemon.cs",
+              "RelativeToolTip": "POKEMON_Cantonjos\\Models\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:35:02.868Z",
+              "EditorCaption": ""
             }
           ]
         }
