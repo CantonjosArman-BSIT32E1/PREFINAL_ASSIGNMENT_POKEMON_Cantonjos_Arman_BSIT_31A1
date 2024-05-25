@@ -18,5 +18,9 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-image: url('../images/393ce636c6ceac0b15ad4c454f247d60');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }

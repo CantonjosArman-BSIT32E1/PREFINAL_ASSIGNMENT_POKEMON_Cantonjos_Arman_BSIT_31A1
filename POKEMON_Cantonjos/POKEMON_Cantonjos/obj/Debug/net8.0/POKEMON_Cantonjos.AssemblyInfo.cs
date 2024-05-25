@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POKEMON_Cantonjos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+014237cdb500bb1520bcd91009237907a84a8e7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a02bee4a16ad800495362ef6da7fd1057846b59")]
 [assembly: System.Reflection.AssemblyProductAttribute("POKEMON_Cantonjos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POKEMON_Cantonjos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
